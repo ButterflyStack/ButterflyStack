@@ -20,7 +20,7 @@ Soy estudiante de último año en una escuela secundaria técnica con orientaci�
 📫 Podés contactarme en: belenrociogonzalez1623@gmail.com</a>
 
 ------
-✔ 📖 🎵 😉-
+
 <h3 align="center">Languages</h3>
 <p align="center">
   </a>
